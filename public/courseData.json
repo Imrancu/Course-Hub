@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "image": "https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8V0VCJTIwREVWfGVufDB8fDB8fHww",
+      "courseTitle": "Intro to Programming",
+      "description": "Learn the basics of programming using Python. This course covers variables, control structures, functions, and data types.",
+      "price": 100,
+      "creditHours": 3
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D",
+      "courseTitle": "Web Development",
+      "description": "Build modern, responsive websites using HTML, CSS, and JavaScript. This course includes hands-on projects and real-world examples.",
+      "price": 120,
+      "creditHours": 4
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGRhdGElMjBzdHJ1Y3R1cmV8ZW58MHx8MHx8fDA%3D",
+      "courseTitle": "Data Structures",
+      "description": "Understand and implement fundamental data structures and algorithms in Python. Learn about arrays, linked lists, stacks, queues, trees, and graphs.",
+      "price": 150,
+      "creditHours": 3
+    },
+    {
+      "id": "4",
+      "image": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "courseTitle": "Introduction to ML",
+      "description": "An introductory course on machine learning concepts and techniques, including supervised and unsupervised learning, regression, and classification.",
+      "price": 200,
+      "creditHours": 4
+    },
+    {
+      "id": "5",
+      "image": "https://images.unsplash.com/photo-1601972602237-8c79241e468b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwYXBwfGVufDB8fDB8fHww",
+      "courseTitle": "Mobile App Development",
+      "description": "Learn to develop mobile applications using React Native. This course covers the basics of React, mobile app design, and deployment.",
+      "price": 180,
+      "creditHours": 4
+    },
+    {
+      "id": "6",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNsb3VkZSUyMGNvbXB1dGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "courseTitle": "Cloud Computing",
+      "description": "An introduction to cloud computing and AWS. Learn about the core services offered by AWS, including EC2, S3, and RDS.",
+      "price": 220,
+      "creditHours": 3
+    },
+    {
+      "id": "7",
+      "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3liZXIlMjBzZWN1cml0eXxlbnwwfHwwfHx8MA%3D%3D",
+      "courseTitle": "Cyber Security",
+      "description": "Understand the principles of cybersecurity, including risk management, threat assessment, and protective measures. This course includes practical exercises and case studies.",
+      "price": 130,
+      "creditHours": 3
+    },
+    {
+      "id": "8",
+      "image": "https://images.unsplash.com/photo-1620778182530-703effa65a06?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmxvY2tjaGFpbiUyMHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D",
+      "courseTitle": "Blockchain and crypto",
+      "description": "Explore the concepts of blockchain technology and cryptocurrency. Learn how blockchain works, its applications, and the basics of investing in cryptocurrencies.",
+      "price": 210,
+      "creditHours": 3
+    },
+    {
+      "id": "9",
+      "image": "https://plus.unsplash.com/premium_photo-1678565879444-f87c8bd9f241?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGRldm9wc3xlbnwwfHwwfHx8MA%3D%3D",
+      "courseTitle": "DevOps Engineer",
+      "description": "Learn the principles of DevOps, including continuous integration and continuous delivery (CI/CD). This course covers tools such as Jenkins, Docker, and Kubernetes.",
+      "price": 190,
+      "creditHours": 4
+    }
+  ]
+  
