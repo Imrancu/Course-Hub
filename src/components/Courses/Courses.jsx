@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
-import Course from "./Course/Course";
+import Course from "../Course/Course";
 
 const Courses = () => {
   const [courses, setCourses] = useState([]);
